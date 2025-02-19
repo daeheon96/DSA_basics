@@ -1,0 +1,22 @@
+Introduction to Data structures
+1. What are data structures?
+- A way of organising and storing data in a computer or a program
+- Help manipulate and manage data efficiently
+2. What is an algorithm?
+- A set of well-defined instructions, step by step guidelines designed to solve a problem or do particular task
+3. Relationships between data structures and algorithms
+- they are complement like nouns and verbs
+4. Why we use data strucutres?
+- help solving difficult problems
+- better organisation 
+- improve efficiency
+- avoid security risks
+- optimize memory usages
+5. How to use in real project?(how to design algorithm well)
+- 1) Understand the problem
+- 2) Identify solution
+- 3) Identify what data structures to be used
+- 4) Implement program
+- 5) Check if it works
+- 6) cHECK IF it's efficient
+- Step 3) and 6) will be dealt with this book.
