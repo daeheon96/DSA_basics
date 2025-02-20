@@ -20,3 +20,12 @@ Introduction to Data structures
 - 5) Check if it works
 - 6) cHECK IF it's efficient
 - Step 3) and 6) will be dealt with this book.
+
+
+Array
+1. What is an array?
+- A collection of indexed data
+2. What are the characteristics of array?
+- stores a collection of data
+- Its elements can be accessed by index
+- Elements don't have to be accessed sequentially
